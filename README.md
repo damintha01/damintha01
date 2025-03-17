@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm damintha deshan wijekoon</h1>
 <h3 align="center">Full-Stack & Data Science Enthusiast</h3>
 
-- 🔭 I’m currently working on **java&sprinboot**
-
-- 🌱 I’m currently learning **react.js**
+- 🔭 I’m currently working on **java & spring boot**
 
 - 📫 How to reach me **daminthadeshan01@gmail.com**
 
