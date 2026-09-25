@@ -13,7 +13,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=damintha01&label=Profile%20Views&color=0e75b6&style=flat)
 ![Location](https://img.shields.io/badge/📍_Colombo-Sri_Lanka-informational?style=flat)
-![Status](https://img.shields.io/badge/Open_to-Internships-success?style=flat)
 
 </div>
 
@@ -171,16 +170,22 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=damintha01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damintha01&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+<img src="https://streak-stats.demolab.com?user=damintha01&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
-<img src="https://streak-stats.demolab.com?user=damintha01&theme=tokyonight&hide_border=true" alt="streak"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=damintha01&theme=tokyo-night&hide_border=true" alt="activity graph" width="95%"/>
+![Followers](https://img.shields.io/github/followers/damintha01?style=for-the-badge&logo=github&label=Followers&color=203A43&labelColor=0F2027)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&color=203A43&labelColor=0F2027&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdamintha01)
+![Stars](https://img.shields.io/github/stars/damintha01?style=for-the-badge&logo=github&label=Stars&color=203A43&labelColor=0F2027)
+![Last Commit](https://img.shields.io/github/last-commit/damintha01/damintha01?style=for-the-badge&logo=git&label=Last%20Commit&color=203A43&labelColor=0F2027)
+
+<br/>
+
+<img src="https://ghchart.rshah.org/2C5364/damintha01" alt="Contribution chart" width="95%" />
 
 </div>
 
