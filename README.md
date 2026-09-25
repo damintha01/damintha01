@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-Final-year **BSc (Hons) Electronic & Computer Science** undergraduate at the **University of Kelaniya** (GPA 3.2/4.0), looking for a **Data Science / Machine Learning / AI-ML Engineering internship**.
+Final-year **BSc (Hons) Electronic & Computer Science** undergraduate at the **University of Kelaniya**.
 
 I build ML systems across the full lifecycle: **data cleaning → EDA → feature engineering → training → tuning → evaluation → production deployment**.
 
